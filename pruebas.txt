@@ -1,0 +1,3 @@
+en la ruta ocalhost:3000/ sale servidor activo
+en la ruta localhost:3000/saludo /saludo comunidad
+en la ruta localhost:3000/mensaje/saludo a juan
